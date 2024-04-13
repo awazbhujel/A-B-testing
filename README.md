@@ -1,4 +1,4 @@
-# A-B-testing
+# A/B testing
 A/B testing, also known as split testing or bucket testing, is a method of comparing two versions of a webpage, app feature, marketing campaign, or any other product by presenting them to users at random and analyzing which one performs better. It's a controlled experiment where variant A (the control) is compared against variant B (the treatment) to determine which one produces better results in terms of a predefined metric.
 
 why A/B testing is important for data analysts and data scientists:
